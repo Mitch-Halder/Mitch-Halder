@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mitch-Halder. I'm french new coder.
-- 👀 I’m interested in development web.
-- 🌱 I’m currently learning development web fullstack by Studi.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web development fullstack by Studi.
 - 📫 How to reach me by my email halder.jean-michel@orange.fr
 
 <!---
